@@ -1,0 +1,30 @@
+.round {
+	background-color: silver;
+	height: 50px;
+	width: 50px;
+	border-radius: 50px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.rounda {
+	background-color: silver;
+	height: 50px;
+	width: 50px;
+	border-radius: 50px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.black {
+	background-color: black;
+}
+.Yellow {
+	background-color: black;
+}
+.Blakofi {
+	background-color: black; 
+}
+.joydan {
+	background-color: black;
+}	
